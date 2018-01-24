@@ -1,0 +1,25 @@
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class co.uk.inspection.MainActivity { <init>(); }
+-keep class co.uk.inspection.formAddProperty { <init>(); }
+-keep class co.uk.inspection.showAllProperties { <init>(); }
+-keep class co.uk.inspection.ShowAllInspections { <init>(); }
+-keep class co.uk.inspection.AddInspectionForm { <init>(); }
+-keep class co.uk.inspection.Activities.AddInspectorForm { <init>(); }
+-keep class co.uk.inspection.Activities.ShowAllImages { <init>(); }
+-keep class co.uk.inspection.Activities.AddAreaForm { <init>(); }
+-keep class co.uk.inspection.Activities.AddAscForm { <init>(); }
+-keep class co.uk.inspection.Activities.AddAreaList { <init>(); }
+-keep class co.uk.inspection.Activities.CommentsActivity { <init>(); }
+-keep class co.uk.inspection.Activities.AddNotes { <init>(); }
+-keep class co.uk.inspection.Activities.FullImage { <init>(); }
+-keep class co.uk.inspection.TableClasses.ShowAllAreas { <init>(); }
+-keep class co.uk.inspection.TableClasses.InspectionLayout { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

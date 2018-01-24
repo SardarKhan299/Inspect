@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\singlerowforshowallproperties.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\singlerowforshowallproperties.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\showallinspection.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\showallinspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addareaview.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addareaview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinnerdropdownview.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\spinnerdropdownview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\singlerowinspectionlayout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\singlerowinspectionlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addcomment.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addcomment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\single_row_show_all_images.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\single_row_show_all_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addinspectorform.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addinspectorform.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\showallproperties.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\showallproperties.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addinspectionfor.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addinspectionfor.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\showallareas.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\showallareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogviewaddarea.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\dialogviewaddarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\chooseinspectionsinglerow.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\chooseinspectionsinglerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addarealist.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addarealist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_toolbar.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\singlerowshowallareas.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\singlerowshowallareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\singlerowshowallareastoduplicate.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\singlerowshowallareastoduplicate.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\show_all_images.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\show_all_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\mainlayout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\mainlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\formarddproperty.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\formarddproperty.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\full_image.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\full_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\emptylistview.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\emptylistview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\chooseinspection.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\chooseinspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\addnotes.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\addnotes.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogview.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\dialogview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\inspectionlayout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\layout\\inspectionlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    }
+]

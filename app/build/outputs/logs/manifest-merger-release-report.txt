@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:2:1-147:12
+	xmlns:android
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:8:5-9:35
+	android:required
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:8:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:16:22-73
+application
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:18:5-145:19
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:0.1.5] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:20:9-38
+	android:theme
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:23:9-68
+activity#co.uk.inspection.MainActivity
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:26:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:27:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:35:27-74
+activity#co.uk.inspection.formAddProperty
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:39:20-67
+activity#co.uk.inspection.showAllProperties
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:44:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:44:20-69
+	android:launchMode
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:46:13-43
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:49:17-71
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:49:25-68
+intent-filter#android.intent.action.VIEW
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:51:13-53:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:52:25-66
+meta-data#android.app.searchable
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:55:13-56:54
+	android:resource
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:56:17-51
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:55:24-61
+activity#co.uk.inspection.ShowAllInspections
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:60:9-74:21
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:61:14-50
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:60:20-70
+	android:launchMode
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:62:14-44
+activity#co.uk.inspection.AddInspectionForm
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:76:9-80:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:76:20-69
+activity#co.uk.inspection.Activities.AddInspectorForm
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:82:9-86:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:82:20-79
+activity#co.uk.inspection.Activities.ShowAllImages
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:89:20-76
+activity#co.uk.inspection.Activities.AddAreaForm
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:95:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:95:20-74
+activity#co.uk.inspection.Activities.AddAscForm
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:101:9-105:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:101:20-73
+activity#co.uk.inspection.Activities.AddAreaList
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:108:9-112:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:108:20-74
+activity#co.uk.inspection.Activities.CommentsActivity
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:114:9-118:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:114:20-79
+activity#co.uk.inspection.Activities.AddNotes
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:120:9-124:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:120:20-71
+activity#co.uk.inspection.Activities.FullImage
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:126:9-130:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:126:20-72
+activity#co.uk.inspection.TableClasses.ShowAllAreas
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:133:9-137:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:133:20-77
+activity#co.uk.inspection.TableClasses.InspectionLayout
+ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:139:9-143:20
+	android:screenOrientation
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml:139:20-81
+uses-sdk
+INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [pub.devrel:easypermissions:0.1.5] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User-10\AndroidStudioProjects\Inspector\app\src\main\AndroidManifest.xml

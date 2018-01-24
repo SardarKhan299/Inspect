@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:titleTextColor="#ffffff"
+        android:theme="@style/AppTheme"
+        android:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+        >
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="auto_fit"
+        android:columnWidth="120dp"
+        android:horizontalSpacing="15dp"
+        android:verticalSpacing="15dp"
+        android:stretchMode="columnWidth"
+        android:layout_below="@+id/toolbar"
+        android:scrollbars="none"
+        android:layout_margin="8dp"
+        />
+
+
+
+
+
+</RelativeLayout>

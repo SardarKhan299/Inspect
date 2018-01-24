@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:titleTextColor="#ffffff"
+        android:theme="@style/AppTheme"
+        android:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+        >
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/editTextInspectorName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:inputType="text|textCapSentences"
+                android:hint="Enter Inspector Name"
+
+                />
+
+            <EditText
+                android:id="@+id/editTextInspectorNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editTextInspectorName"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:inputType="number"
+                android:hint="Enter Inspector Number "
+                />
+
+            <EditText
+                android:id="@+id/editTextInpectorEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editTextInspectorNumber"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:inputType="textEmailAddress|textCapSentences"
+                android:hint="Enter Inspector Email"
+
+                />
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Save"
+                android:id="@+id/buttonSaveInspector"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/editTextInpectorEmail"
+                android:background="@drawable/buttonborder"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:layout_marginTop="20dp"
+                />
+
+
+
+
+
+
+
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

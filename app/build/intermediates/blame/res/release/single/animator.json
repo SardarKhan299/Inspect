@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\backin.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\backin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\lefttoright.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\lefttoright.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\replaceradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\replaceradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\bottomtotop.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\bottomtotop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\backright.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\backright.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\toptobottom.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\toptobottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\animator\\righttoleft.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\animator\\righttoleft.xml"
+    }
+]

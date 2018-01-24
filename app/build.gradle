@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.example.inspector"
+        minSdkVersion 14
+        targetSdkVersion 23
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:23.2.0'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile files('libs/itextg-5.5.8.jar')
+    compile files('libs/library-1.2.1.jar')
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.android.support:design:23.1.1'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'com.squareup.picasso:picasso:2.4.0'
+    compile 'pub.devrel:easypermissions:0.1.5'
+
+
+}

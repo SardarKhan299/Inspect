@@ -1,0 +1,87 @@
+-injars 'C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'E:\FayyazData\Android\Setup\adt\sdk\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\User-10\AndroidStudioProjects\Inspector\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class co.uk.inspection.MainActivity {
+    <init>();
+}
+
+-keep class co.uk.inspection.formAddProperty {
+    <init>();
+}
+
+-keep class co.uk.inspection.showAllProperties {
+    <init>();
+}
+
+-keep class co.uk.inspection.ShowAllInspections {
+    <init>();
+}
+
+-keep class co.uk.inspection.AddInspectionForm {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.AddInspectorForm {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.ShowAllImages {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.AddAreaForm {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.AddAscForm {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.AddAreaList {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.CommentsActivity {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.AddNotes {
+    <init>();
+}
+
+-keep class co.uk.inspection.Activities.FullImage {
+    <init>();
+}
+
+-keep class co.uk.inspection.TableClasses.ShowAllAreas {
+    <init>();
+}
+
+-keep class co.uk.inspection.TableClasses.InspectionLayout {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

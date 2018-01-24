@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\noneradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\noneradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\goodradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\goodradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_front.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\background_front.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\spinner_dropdown.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\spinner_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listitemselector.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\listitemselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_search.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dirtyradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\dirtyradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_area.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\bottom_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_drop_down_normal.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\shape_drop_down_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fairradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\fairradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\my_rectangle.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\my_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottomborder.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\bottomborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\buttonborder.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\buttonborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\replaceradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\replaceradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\spinnerdropdown.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\spinnerdropdown.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\repairradio.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\repairradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_back.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\Inspector\\app\\src\\main\\res\\drawable\\background_back.png"
+    }
+]

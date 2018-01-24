@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pink_color">#B51D6E</color>
+    <color name="text_color">#212121</color>
+    <color name="black_overlay">#fdb415</color>
+	<color name="black_color">#000000</color>
+	<color name="header_color">#e1e1e1</color>
+	<color name="aboutcontactpagetext_color">#c32a84</color>
+	<color name="colorBackground">#f9f5f5</color>
+	<color name="background_material_dark">#d21d1d</color>
+	<color name="primary_dark_material_dark">#212121</color>
+	<color name="blackColor">#212121</color>
+	<color name="yellow">#fdb415</color>
+	<color name="toolbarColor">#212121</color>
+	<color name="black">#bf1c1c</color>
+	<color name="secondary_text_default_material_light">#fdb415</color>
+	<color name="secondary_text_default_material_light1">#fdb415</color>
+	<color name="toolbar">#151515</color>
+	<color name="backgroundColor">#f1f0f0</color>
+	<color name="foreground_material_dark">#212121</color>
+	<color name="secondary_text_default_material_dark">#212121</color>
+	<color name="secondary_text_material_dark">#212121</color>
+	<color name="hint_text">#808080</color>
+	<color name="OverFlowMenuPopupBackground">#f1f0f0</color>
+	<color name="orange">#fd7a15</color>
+	<color name="blue">#158dfd</color>
+	<color name="green">#15fd21</color>
+	<color name="pressed_color">#8b8c8e</color>
+	<color name="default_color">#ffffff</color>
+
+
+</resources>

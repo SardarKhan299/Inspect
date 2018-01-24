@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/textViewsingleRowInspectionLayout"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        />
+
+
+
+
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_below="@+id/textViewsingleRowInspectionLayout"
+    android:layout_marginTop="10dp"
+    android:id="@+id/groupCondition"
+    >
+    <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Good"
+                android:id="@+id/radioButtonGood"
+                android:button="@drawable/goodradio"
+
+
+                 />
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fair"
+        android:id="@+id/radioButtonFair"
+        android:button="@drawable/fairradio"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dirty"
+        android:id="@+id/radioButtonDirty"
+        android:button="@drawable/dirtyradio"
+         />
+
+
+
+</RadioGroup>
+
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/groupCondition"
+    android:orientation="horizontal"
+    android:layout_marginTop="10dp"
+    android:id="@+id/radioGroupChange"
+    android:paddingBottom="10dp"
+    >
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Repair"
+        android:id="@+id/radioButtonRepair"
+        android:checked="false"
+        android:button="@drawable/repairradio"
+        />
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Replace"
+        android:id="@+id/radioButtonReplace"
+        android:checked="false"
+        android:button="@drawable/replaceradio"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="None"
+        android:id="@+id/radioButtonNone"
+        android:checked="false"
+        android:button="@drawable/noneradio"
+        />
+
+</RadioGroup>
+
+    <ImageView
+        android:layout_width="38dp"
+        android:layout_height="48dp"
+        android:id="@+id/imageViewCameraSingleRowInpectionLayout"
+        android:src="@drawable/ic_action_camera"
+        android:layout_above="@+id/radioGroupChange"
+        android:layout_toRightOf="@+id/groupCondition"
+        android:layout_toEndOf="@+id/groupCondition"
+        android:layout_marginLeft="5dp"
+        />
+
+
+
+
+    <ImageView
+        android:layout_width="38dp"
+        android:layout_height="48dp"
+        android:id="@+id/imageViewCommentSingleRowInpectionLayout"
+        android:src="@drawable/ic_action_monolog"
+        android:layout_above="@+id/radioGroupChange"
+        android:layout_toRightOf="@+id/imageViewCameraSingleRowInpectionLayout"
+        android:layout_toEndOf="@+id/imageViewCameraSingleRowInpectionLayout"
+        android:layout_marginLeft="5dp"
+        />
+
+
+</RelativeLayout>

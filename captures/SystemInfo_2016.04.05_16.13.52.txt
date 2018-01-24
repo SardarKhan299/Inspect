@@ -1,0 +1,2 @@
+TASK com.example.inspector id=63
+  ACTIVITY com.example.inspector/.TableClasses.InspectionLayout 420a0330 pid=7277

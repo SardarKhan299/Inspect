@@ -1,0 +1,4 @@
+TASK com.example.inspector id=567
+  ACTIVITY com.example.inspector/.showAllProperties 419202f0 pid=(not running)
+
+  ACTIVITY com.example.inspector/.MainActivity 42120ed8 pid=(not running)
